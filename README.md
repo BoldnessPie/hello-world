@@ -1,5 +1,5 @@
 # hello-world
-My first project. Testing capabilyties.
+My first project. We are smoking bro.
 
 My name is Alex. 
 I love electronic music and raves. 
